@@ -5,7 +5,7 @@
 }
 .explore-menu-text{
     max-width: 60%;
-    columns: #808080;
+    columns: #dadada;
 }
 .explore-menu-list{
     display: flex;
@@ -28,14 +28,14 @@
 }
 .explore-menu-list-item p{
     margin-top: 10px;
-    color: #747474;
+    color: #656464;
     font-size: max(1.4vw,16px);
     cursor: pointer;
 }
 .explore-menu hr{
     margin: 10px 0px;
     height: 2px;
-    background-color: #e2e2e2;
+    background-color: #c0bebe;
     border:none;
 }
 .explore-menu-list-item .active{
